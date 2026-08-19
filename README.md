@@ -1,2 +1,2 @@
-# CodeAlpha_ProjectName
+CodeAlpha_StudentGradeTracker
 Student grade tracker using java
